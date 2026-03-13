@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ram678.github.io/Tushar1/sitemap.xml
